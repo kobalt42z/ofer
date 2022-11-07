@@ -2,7 +2,7 @@ const express = require("express");
 const path = require("path");
 const http = require("http");
 
-const {routesInit} = require("./routes/configRoutes");
+const {routesInit} = require("./routes/routesInit");
 const { log } = require("console");
 require("./db/mongoConnect")
 
