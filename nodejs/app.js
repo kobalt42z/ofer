@@ -3,8 +3,7 @@ const path = require("path");
 const http = require("http");
 
 const {routesInit} = require("./routes/routesInit");
-const { log } = require("console");
-require("./db/mongoConnect")
+
 
 const app = express();
 
