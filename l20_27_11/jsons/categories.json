@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6383523d2323269073a4f577"
+  },
+  "name": "cakes",
+  "url_code": "cakes",
+  "info": "Cakes foods with tasty cakes !",
+  "img_url": "https://images.pexels.com/photos/703116/pexels-photo-703116.jpeg?auto=compress&cs=tinysrgb&w=1600",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638355a75651a99d31bd3b5d"
+  },
+  "name": "Italiano",
+  "url_code": "Italy",
+  "info": "Italian foods , like pizza, pasta and more....",
+  "img_url": "https://images.pexels.com/photos/3762075/pexels-photo-3762075.jpeg?auto=compress&cs=tinysrgb&w=1600",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638355fd5651a99d31bd3b5f"
+  },
+  "name": "Drinks",
+  "url_code": "Drinks",
+  "info": "Tasty drinks like coffee, cola , tea and more",
+  "img_url": "https://images.pexels.com/photos/1561147/pexels-photo-1561147.jpeg?auto=compress&cs=tinysrgb&w=1600",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638356655651a99d31bd3b61"
+  },
+  "name": "Icecream",
+  "url_code": "icecream",
+  "info": "Tasty Icecream in vanila taste , coffee taste, lemon taste",
+  "img_url": "https://images.pexels.com/photos/8783658/pexels-photo-8783658.jpeg?auto=compress&cs=tinysrgb&w=1600",
+  "__v": 0
+}]
